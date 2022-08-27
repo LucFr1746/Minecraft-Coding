@@ -8,9 +8,9 @@ This is a step-by-step tutorial on how to code a complete Minecraft plugin. Lear
 
 Maintained by LucFr.
 
-<a href="https://discord.com/invite/jXmDUktgZn">
+<a href="https://discord.gg/x2B8cBbRkv">
 <img src="https://img.shields.io/badge/Chat%20%2F%20Support-on%20Discord-skyblue?style=for-the-badge&logo=discord&logoColor=white" alt="Support available on Discord"></img>
 </a>
-<a href="https://github.com/LucFr1746/Wardrobe/wiki/Credits">
+<a href="https://github.com/LucFr1746/Minecraft-Coding/wiki/Credits">
 <img src="https://img.shields.io/badge/Contributors-View%20Credits-skyblue?style=for-the-badge" alt="Contributors listed in Credits Page"></img>
 </a>
