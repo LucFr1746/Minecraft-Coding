@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/Eelqjxo.png" width="2000" height="300" alt="Wardrobe Banner"></img>
+<img src="https://i.imgur.com/Eelqjxo.png" width="2000" height="200" alt="Wardrobe Banner"></img>
 
 # Welcome to Coding-with-Minecraft
 
