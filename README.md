@@ -14,3 +14,8 @@ Maintained by LucFr.
 <a href="https://github.com/LucFr1746/Minecraft-Coding/wiki/Credits">
 <img src="https://img.shields.io/badge/Contributors-View%20Credits-skyblue?style=for-the-badge" alt="Contributors listed in Credits Page"></img>
 </a>
+<br/>
+<a href="https://github.com/LucFr1746/Minecraft-Coding/wiki">
+<img src="https://img.shields.io/badge/Documentation-on%20Wiki-skyblue?style=for-the-badge&logo=wikipedia" alt="Documentation available on the Wiki"></img>
+</a>
+<br/>
